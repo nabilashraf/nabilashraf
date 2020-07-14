@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ ⚡ Fun fact: Full Stack JavaScript Developer 
+ 📫 How to reach me: shoot me an email -> nabilashraf@chumchum.agency
+
 <!--
 **nabilashraf/nabilashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
