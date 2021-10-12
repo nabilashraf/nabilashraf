@@ -36,3 +36,5 @@
 [instagram]: https://instagram.com/nabilashraf
 [linkedin]: https://linkedin.com/in/nabilashraf
 [company]: https://chumchum.agency 
+
+[![wakatime](https://wakatime.com/badge/user/a619e82b-2bbf-4d87-a6db-336cd10328e7.svg)](https://wakatime.com/@a619e82b-2bbf-4d87-a6db-336cd10328e7)
