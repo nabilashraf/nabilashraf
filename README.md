@@ -4,7 +4,7 @@
  
 ### Connect with me:
 
-[<img align="left" alt="nabilashraf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nabilashraf | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="nabilashraf | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="nabilashraf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="nabilashraf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -37,6 +37,9 @@
 [linkedin]: https://linkedin.com/in/nabilashraf
 [company]: https://chumchum.agency 
 
+<br/>
+<br/>
+<br/>
 <br/>
 
 [![wakatime](https://wakatime.com/badge/user/a619e82b-2bbf-4d87-a6db-336cd10328e7.svg)](https://wakatime.com/@a619e82b-2bbf-4d87-a6db-336cd10328e7)
