@@ -36,16 +36,16 @@ I'm a seasoned **Full Stack Developer** and **Technical Leader** with a passion 
 
 ## 📊 GitHub Stats
 
-![Nabil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilashraf&show_icons=true&theme=radical)
+![nabilashraf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabilashraf&theme=dracula&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilashraf&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
 
+- 💼 [LinkedIn](https://linkedin.com/in/nabilashraf)
 - 🌐 [nabilashraf.com](https://nabilashraf.com)
 - 🏢 [xcatalyst.io](https://xcatalyst.io)
-- 💼 [LinkedIn](https://linkedin.com/in/nabilashraf)
 - 💬 DM-friendly | Open for mentoring, consulting, or just a tech chat!
 
 ---
