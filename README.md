@@ -1,22 +1,25 @@
 # Hi there, I'm Nabil 👋
 
-CTO @ **[XCatalyst](https://xcatalyst.io)** (formerly Chum Chum Digital Agency)  
+**CTO @ [XCatalyst](https://xcatalyst.io)** (formerly Chum Chum Digital Agency)  
 🎯 Building future-ready digital products with precision and scale.
+
+---
+
+## 🎥 See What I Do
+
+https://github.com/user-attachments/assets/4b77d68f-d062-40b1-9186-115c43ecf01a
 
 ---
 
 ## 🚀 About Me
 
-I'm a seasoned **Full Stack Developer** and **Technical Leader** with a passion for architecting scalable systems and beautiful interfaces.
+I'm a seasoned **Full Stack Developer** and **Technical Leader** with a passion for architecting scalable systems and beautiful interfaces. Currently, I lead cross-functional teams, mentor developers, and ship client-first digital experiences across various industries.
 
-💡 **Stack**  
-- 🖥️ Frontend: React.js, Angular, React Native  
-- ⚙️ Backend: Node.js, Express.js, NestJS, MongoDB, PostgreSQL  
-- ☁️ Cloud & DevOps: AWS (EC2, S3, Lambda, RDS, CloudWatch), Docker, CI/CD, Serverless  
-- 🔄 APIs: REST, GraphQL, WebSockets  
-- 🧱 Architecture: Microservices, Monorepos, Scalable SaaS Systems
-
-📈 Currently leading cross-functional teams, mentoring devs, and shipping client-first digital experiences across industries.
+💡 **My Stack** * **🖥️ Frontend:** React.js, Angular, React Native  
+* **⚙️ Backend:** Node.js, Express.js, NestJS, MongoDB, PostgreSQL  
+* **☁️ Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, CloudWatch), Docker, CI/CD, Serverless  
+* **🔄 APIs:** REST, GraphQL, WebSockets  
+* **🧱 Architecture:** Microservices, Monorepos, Scalable SaaS Systems
 
 ---
 
@@ -36,18 +39,19 @@ I'm a seasoned **Full Stack Developer** and **Technical Leader** with a passion 
 
 ## 📊 GitHub Stats
 
-![nabilashraf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabilashraf&theme=dracula&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilashraf&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilashraf&theme=dracula&hide_border=false" alt="nabilashraf's Streak" />
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/nabilashraf)
-- 🌐 [nabilashraf.com](https://nabilashraf.com)
-- 🏢 [xcatalyst.io](https://xcatalyst.io)
-- 💬 DM-friendly | Open for mentoring, consulting, or just a tech chat!
+* 💼 [LinkedIn](https://linkedin.com/in/nabilashraf)
+* 🌐 [nabilashraf.com](https://nabilashraf.com)
+* 🏢 [xcatalyst.io](https://xcatalyst.io)
+* 💬 DM-friendly | Open for mentoring, consulting, or just a tech chat!
 
 ---
 
-> "Code is not just what we write, it's the architecture we envision."
+> *"Code is not just what we write, it's the architecture we envision."*
