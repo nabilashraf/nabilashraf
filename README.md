@@ -1,57 +1,48 @@
-# Hi there, I'm Nabil 👋
+# Hi, I'm Nabil
 
-**CTO @ [XCatalyst](https://xcatalyst.io)** (formerly Chum Chum Digital Agency)  
-🎯 Building future-ready digital products with precision and scale.
-
----
-
-## 🎥 See What I Do
-
-https://github.com/user-attachments/assets/4b77d68f-d062-40b1-9186-115c43ecf01a
+**CTO & AI Engineer @ [XCatalyst](https://xcatalyst.io)** (`@chumchumagency`)  
+I build production LLM systems: RAG with citations, agents with tool use and human approval, and full-stack apps around them (Node/TypeScript, Python, React/Next).
 
 ---
 
-## 🚀 About Me
+## What I ship
 
-I'm a seasoned **Full Stack Developer** and **Technical Leader** with a passion for architecting scalable systems and beautiful interfaces. Currently, I lead cross-functional teams, mentor developers, and ship client-first digital experiences across various industries.
+- **RAG & knowledge bases** with source citations, eval sets, and cost/latency tradeoffs you can actually measure
+- **Agents** that call real APIs; anything consequential goes through an approval step before it runs
+- **LLM features inside products** (structured outputs, logging, retries, fallbacks) rather than chat demos that die in staging
+- **Full-stack delivery** end to end: APIs, data model, React/Next UI, Postgres + vector store, AWS
 
-💡 **My Stack** * **🖥️ Frontend:** React.js, Angular, React Native  
-* **⚙️ Backend:** Node.js, Express.js, NestJS, MongoDB, PostgreSQL  
-* **☁️ Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, CloudWatch), Docker, CI/CD, Serverless  
-* **🔄 APIs:** REST, GraphQL, WebSockets  
-* **🧱 Architecture:** Microservices, Monorepos, Scalable SaaS Systems
-
----
-
-## 🛠️ Toolbox
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+I'm CTO at XCatalyst (formerly Chum Chum Agency). I own systems in production and still write the critical path myself.
 
 ---
 
-## 📊 GitHub Stats
+## Stack
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilashraf&theme=dracula&hide_border=false" alt="nabilashraf's Streak" />
-</div>
+**AI / LLM:** OpenAI, Anthropic, LangChain where it helps, embeddings + vector search, evals, prompt versioning  
+**Backend:** Node.js, TypeScript, Python, FastAPI, Postgres  
+**Frontend:** React, Next.js, TypeScript  
+**Cloud:** AWS (compute, storage, monitoring), Docker, CI/CD
 
----
-
-## 📫 Let's Connect
-
-* 💼 [LinkedIn](https://linkedin.com/in/nabilashraf)
-* 🌐 [nabilashraf.com](https://nabilashraf.com)
-* 🏢 [xcatalyst.io](https://xcatalyst.io)
-* 💬 DM-friendly | Open for mentoring, consulting, or just a tech chat!
+Rule of thumb: an agent saying "done" means nothing until the tests and a real run agree.
 
 ---
 
-> *"Code is not just what we write, it's the architecture we envision."*
+## Demos
+
+Public samples live in **[ai-demos](https://github.com/nabilashraf/ai-demos)** (also under the company org when published):
+
+| Demo | What it shows |
+|------|----------------|
+| `rag-citations` | Retrieval + answers with source snippets and a small eval set |
+| `agent-approvals` | Tool-calling agent with a human approval gate before writes |
+| `llm-sql-safe` | LLM over data via vetted templates / semantic views; replayable logs |
+
+---
+
+## Connect
+
+- [LinkedIn](https://linkedin.com/in/nabilashraf)
+- [XCatalyst](https://xcatalyst.io)
+- [nabilashraf.com](https://nabilashraf.com)
+
+Open to consulting and mentoring on production AI systems.
